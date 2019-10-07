@@ -20,13 +20,13 @@ package org.japo.java.main;
  * @author Sebastian Najarro Heredia - sebastian.najarro.alum@iescamp.es
  */
 public class Main {
+
     public static void main(String[] args) {
-        
-                 System.out.println("Artículo 1. El jefe tiene la razón.");
-                 System.out.println("Artículo 2. El jefe siempre tiene la razón.");
-                 System.out.println("Artículo3. En caso de duda se aplicará el artículo 2.");
+
+        System.out.println("Artículo 1. El jefe tiene la razón.");
+        System.out.println("Artículo 2. El jefe siempre tiene la razón.");
+        System.out.println("Artículo3. En caso de duda se aplicará el artículo 2.");
 
     }
-   
-    
+
 }
